@@ -1,1 +1,1 @@
-Hello from JAVA and GraphQL
+My First commit via graphQL

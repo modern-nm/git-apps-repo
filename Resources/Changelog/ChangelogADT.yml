@@ -1,1 +1,16 @@
-asfasdddddddddddddddddsfsdfffffffffffffffffffffffffdsfs фывфывфы asd2135asd fdgAfds
+Id: 1
+Author: author
+Time: 2024-03-14T12:58:58.7931595+03:00
+Changes:
+- Type: Add
+  Message: >2
+     Добавлено веселье!
+- Type: Remove
+  Message: >2
+     Убрано веселье!
+- Type: Tweak
+  Message: >2
+     Изменено веселье!
+- Type: Fix
+  Message: >2
+     Исправлено веселье!
